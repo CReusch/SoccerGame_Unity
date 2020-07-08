@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ARTestApplication.unity
+    guid: 5676859a25275644abd138006d464c9a
+  - enabled: 1
+    path: Assets/SoccerGame.unity
+    guid: d37f322b0bf5a874f82d678b71b8812f
+  m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: bae55c8df9551db4293bd4f57b0dff8d,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ef3cae0177825d84ca645180a237d530,
+      type: 2}
